@@ -8,9 +8,15 @@ in comment block, margin, replace/insert, multiple selections, lots of options, 
 
 
 ## Installation
-To install the plugin, first you need to open your SublimeText 2 package directory which you can find by going to "Preferences > Browse Packages..."
-in SublimeText's menu. Make a new directory called "EpicTitles" or something, then copy all the files from the repository into this directory.
-Restart SublimeText and you should be good to go.
+### Quick:
+Download the pre-packaged release from [here](https://s3-ap-southeast-2.amazonaws.com/silascodes/epictitles-1.0.zip) and extract it into
+your SublimeText 2 package directory.
+
+### From source:
+Make a directory inside SublimeText 2's package directory called "EpicTitles" or something, and copy all the files from the repository into your new directory.
+
+### Where is the package directory?
+You can find the package directory by going to "Preferences > Browse Packages..." in SublimeText's menu.
 
 
 ## How to use
